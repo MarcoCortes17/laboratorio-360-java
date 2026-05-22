@@ -1,1 +1,10 @@
 /home/marco/Documents/proyectos-axity/26-laboratorio-360-java/laboratorio-360-java/dinosaur-park/src/main/java/com/axity/dinosaurpark/Main.java
+/home/marco/Documents/proyectos-axity/26-laboratorio-360-java/laboratorio-360-java/dinosaur-park/src/main/java/com/axity/dinosaurpark/config/ParkConfig.java
+/home/marco/Documents/proyectos-axity/26-laboratorio-360-java/laboratorio-360-java/dinosaur-park/src/main/java/com/axity/dinosaurpark/model/CarnivoreDinosaur.java
+/home/marco/Documents/proyectos-axity/26-laboratorio-360-java/laboratorio-360-java/dinosaur-park/src/main/java/com/axity/dinosaurpark/model/Dinosaur.java
+/home/marco/Documents/proyectos-axity/26-laboratorio-360-java/laboratorio-360-java/dinosaur-park/src/main/java/com/axity/dinosaurpark/model/DinosaurStatus.java
+/home/marco/Documents/proyectos-axity/26-laboratorio-360-java/laboratorio-360-java/dinosaur-park/src/main/java/com/axity/dinosaurpark/model/Guard.java
+/home/marco/Documents/proyectos-axity/26-laboratorio-360-java/laboratorio-360-java/dinosaur-park/src/main/java/com/axity/dinosaurpark/model/HerbivoreDinosaur.java
+/home/marco/Documents/proyectos-axity/26-laboratorio-360-java/laboratorio-360-java/dinosaur-park/src/main/java/com/axity/dinosaurpark/model/Tourist.java
+/home/marco/Documents/proyectos-axity/26-laboratorio-360-java/laboratorio-360-java/dinosaur-park/src/main/java/com/axity/dinosaurpark/model/TouristStatus.java
+/home/marco/Documents/proyectos-axity/26-laboratorio-360-java/laboratorio-360-java/dinosaur-park/src/main/java/com/axity/dinosaurpark/model/Worker.java

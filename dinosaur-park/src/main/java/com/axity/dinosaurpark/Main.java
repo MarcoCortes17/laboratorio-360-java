@@ -1,8 +1,8 @@
 package com.axity.dinosaurpark;
 
-/**
- * Hello world!
- */
+import com.axity.dinosaurpark.config.ParkConfig;
+//import com.axity.dinosaurpark.simulation.SimulationEngine;
+
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello World!");
